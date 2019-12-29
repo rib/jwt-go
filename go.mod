@@ -1,3 +1,3 @@
-module github.com/dgrijalva/jwt-go/v4
+module github.com/rib/jwt-go
 
 go 1.13
